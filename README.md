@@ -19,12 +19,12 @@ This repository includes a color scheme file for Vim.
 
 ### For vim-plug users
 ```viml
-Plug 'yuttie/hydrangea-vim'
+Plug 'AstralCam/hydrangea-quotationmarks-vim'
 ```
 
 ### For dein.vim users
 ```viml
-call dein#add('yuttie/hydrangea-vim')
+call dein#add('AstralCam/hydrangea-quotationmarks-vim')
 ```
 
 ## Configuration
